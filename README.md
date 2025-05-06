@@ -38,7 +38,7 @@ snake-game/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/ehanhasainar/snake-game.git
    cd snake-game
    ```
 2. Ensure you have Python 3 installed.
